@@ -1,4 +1,4 @@
-### Hi there 👋, I'm AnhNT 🐈‍⬛
+### Hi there 👋, I'm AnhNT 🐱
 
 <!--
 **NTienAnh/NTienAnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
